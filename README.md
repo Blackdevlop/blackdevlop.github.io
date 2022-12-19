@@ -3,16 +3,16 @@
 <html>
 
    <head>
-
-    <title>Wala na mahal na kita</title>
+    <title>HANDA KANA BA?</title>
 
      <script type="text/javascript">
 
        alert("Kumain kana?");
-
        alert("May boyfriend kana?")
        alert("MAHAL KITA KING INA MO")
-       confirm("I LOVE YOU")
+       alert("JOKE LANG ETO NA TALAGA")
+       alert("ETO NA")
+       confirm("ITS A PRANK NA PRANK KITA LODS")
 
         </script>
 
