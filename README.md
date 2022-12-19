@@ -8,7 +8,7 @@
 
      <script type="text/javascript">
 
-       alert("bahog itlog");
+       alert("baho kay itlog");
 
        alert("hello")
 
@@ -22,9 +22,4 @@
 
      </html>
 
-Footer
-
-© 2022 GitHub, Inc.
-
-Footer navigation
 
