@@ -4,15 +4,15 @@
 
    <head>
 
-    <title>GAGO KA BA?</title>
+    <title>Wala na mahal na kita</title>
 
      <script type="text/javascript">
 
-       alert("baho kay itlog");
+       alert("Kumain kana?");
 
-       alert("hello")
-
-       confirm("heh")
+       alert("May boyfriend kana?")
+       alert("MAHAL KITA KING INA MO")
+       confirm("I LOVE YOU")
 
         </script>
 
